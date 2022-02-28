@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poore vvise-mans admonition unto all the plaine people of London, and the neighbor-places. To strengthen them in the houre of temptation, that they may be happy and exemplary instruments to all other people, in preserving the city, Parliament, and whole nation, from imminent and sudden destruction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90841</idno>
+            <idno type="STC">Wing P2898</idno>
+            <idno type="STC">Thomason E392_4</idno>
+            <idno type="STC">ESTC R201558</idno>
+            <idno type="EEBO-CITATION">99862057</idno>
+            <idno type="PROQUEST">99862057</idno>
+            <idno type="VID">114206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poore vvise-mans admonition unto all the plaine people of London, and the neighbor-places. To strengthen them in the houre of temptation, that they may be happy and exemplary instruments to all other people, in preserving the city, Parliament, and whole nation, from imminent and sudden destruction.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to William Walwyn; this attribution rejected by McMichael and Taft, The writings of William Walwyn, p.530.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In favor of the army.</note>
+                  <note>Annotation on Thomason copy: "June 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114206:1" rendition="simple:additions"/>
+            <p>The poore VViſe-mans ADMONITION UNTO All the plaine People of <hi>London,</hi> and the Neighbour-Places.</p>
+            <p>To ſtrengthen them in the houre of tempta<g ref="char:EOLhyphen"/>tion, that they may be happy and exemplary inſtru<g ref="char:EOLhyphen"/>ments to all other People, in preſerving the City, Parliament, and whole Nation, from imminent and ſudden deſtruction.</p>
+            <q>
+               <bibl>
+                  <hi>Eccleſ. 37.16. Prov. 16.20. Eccleſ. 7.21. Prov. 1.32, 33.</hi>
+               </bibl>
+               <p>Let reaſon goe before every enterprize, and counſell before every action.</p>
+               <p>He that is wiſe in his buſineſſe, ſhall finde good, and he that truſt<g ref="char:EOLhyphen"/>eth in the Lord is bleſſed.</p>
+               <p>Wiſdome ſhall ſtrengthen the wiſeman, more then ten mighty Princes that are in the city.</p>
+               <p>For eaſe ſlayeth the fooliſh, and the proſperity of fools deſtroyeth them.</p>
+               <p>But he that obeyeth me (ſaith wiſdome) ſhall dwell in ſafety, and be quiet from feare of evill.</p>
+            </q>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="warning">
+            <pb facs="tcp:114206:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:114206:2"/>
+            <head>The poore VViſe-mans Admonition unto all the plaine People of London, and the neighbour Places.</head>
+            <opener>
+               <salute>Deare Friends;</salute>
+            </opener>
+            <p>ALthough ye and your families, are they who in all publike calamities do ſuffer moſt, yet ſeem ye altogether inſenſi<g ref="char:EOLhyphen"/>ble of your owne danger untill it be directly upon you, yee looke not into publike affaires your ſelves, but truſt wholly unto others; and if they either through weakneſſe, wilful<g ref="char:EOLhyphen"/>neſſe, corruption or treacherie faile in their truſt or turne op<g ref="char:EOLhyphen"/>preſſors and tyrants, ye remaine liable to be deluded and be<g ref="char:EOLhyphen"/>trayed by them into tumults, wars, miſeries and bondage.</p>
+            <p>But believe it, yee have need to look about you, and that verie quickly, to ſee into affaires your ſelves, and underſtand how things go, for ye are likely very ſpeedily to be put upon the greateſt triall of your wiſdome and faithfulneſſe that e<g ref="char:EOLhyphen"/>ver men were put upon; which if ye withſtand or get cleare through with an upright mind, your peace, freedome, and happineſſe will certainly be continued, but if ye yeeld yee will involve your ſelves, your wives, children and ſervants into far greater miſeries and extremities then thoſe ye have alrea<g ref="char:EOLhyphen"/>dy paſt through.</p>
+            <p>The caſe is briefly and truly thus, ye remember in what a languiſhing diſtracted condition ye were in, before the warre was betruſted to the <hi>preſent Army,</hi> then called, <hi>The new Mo<g ref="char:EOLhyphen"/>dell,</hi> and with what faithfulneſſe, diligence, expedition and courage they have vanquiſh'd the enemy, reſtored you to your trades and livelihoods, which ye cannot with any conſcience, but thankfully acknowledge and remember.</p>
+            <p>But what they by their fidelity and activity gained abroad, is through want of care utterly deſtroyed at home; for whilſt they ſupplant the enemy in ſtrength, he is ſupplyed with au<g ref="char:EOLhyphen"/>thority, and ſo in effect made Maſter of that ſtrength by which he hath been vanquiſhed.</p>
+            <pb n="2" facs="tcp:114206:3"/>
+            <p>Ye will wonder how it ſhould be ſo, and yet if yee ſhall judge the tree by the fruits, which is ſo infallible a rule that it cannot deceive you, ye ſhall find nothing more evident.</p>
+            <p>For, what Authority now extant can ye name, that affords this Army any countenance or encouragement? nay, that hath not manifeſted a jealouſie and hatred of them, and that moſt unjuſtly, ſeeing the Army is ſtill the ſame it was, minding the ſafety, peace, freedome and happineſſe of all peaceable peo<g ref="char:EOLhyphen"/>ple without any difference at all.</p>
+            <p>But herein it conſiſteth, Authority is changed and hath pro<g ref="char:EOLhyphen"/>poſed other ends to it ſelfe now at laſt, then when this Army was firſt raiſed; thoſe men that ſaw a neceſſity of their rai<g ref="char:EOLhyphen"/>ſing, which appeared from the languiſhing condition of the Kingdome under the former Forces, had then the major Vote and the oppoſite party were eſteemed diſ-affected favourers of the enemy, Remora's to the honeſt proceedings of the Houſe at that time, but are now become by the addition of divers ill affected men of knowne malignity out of the quar<g ref="char:EOLhyphen"/>ters redeemed from the enemy, the ſwaying party weigh down the ballance and decree all.</p>
+            <p>From hence proceeds this different aſpect upon the Army; the late bitter Declaration againſt them for endeavouring to petition their owne Generall in an orderly and peaceable way, for that which many by their loſſe of health, and all of them by induring the hardſhips and extremities of war, and hazarding their lives, have dearly earned; theſe are now judged enemies to the State, diſturbers of the peace, even of purpoſe to turn the faces of honeſt men againſt them, and all to maintaine the unjuſt cauſe, and work out the wicked deſignes of tyrants and oppreſsors.</p>
+            <p>Divers men by corruptions are growne rich, from ſmall eſtates or nothing to be very wealthy; and finding that this Army and ſuch as love them, becauſe they love their Country, are inquiſitive and unwilling to ſee the State abuſed, and the people defrauded, fearing that the mountaines of wealth they have raiſed, may be yet returned to the right owners, or the common ſtock, and that their unjuſt actions may undergo ſcrutiny and tryall, have for prevention therof, deſperatly re<g ref="char:EOLhyphen"/>ſolved to embroyle us in a new warre, and bring all to the for<g ref="char:EOLhyphen"/>mer
+<pb n="3" facs="tcp:114206:3"/>confuſion, if not utter deſolation; finding by experience, that they can fiſh beſt in troubled waters, and eſcape beſt in the preſſe; that corruption and injuſtice is no otherwiſe mantain<g ref="char:EOLhyphen"/>able, but by might and force, and for that very end and pur<g ref="char:EOLhyphen"/>poſe have contrived to engage you againſt the Army, and thoſe that wiſh them well, by which policie they ſuppoſe all your thoughts wil be diverted from thinking upon them and their corruptions.</p>
+            <p>In order to this, the Army and their friends are made odious to you, as Secretaries, even as heretofore the wel-affected party were rendered hateful to you as Puritans; they provoke the Ar<g ref="char:EOLhyphen"/>my what they can, by declaring them diſturbers of the peace, moleſting divers of their Officers and Souldiers, ſleighting peti<g ref="char:EOLhyphen"/>tions of many thouſands of good and godly people, and burn<g ref="char:EOLhyphen"/>ing ſome of them by the common Hang-man, and by many o<g ref="char:EOLhyphen"/>ther ſignes giving them to ſee what they and their friends are like to ſuffer after disbanding, hoping hereby to put them up<g ref="char:EOLhyphen"/>on extremitie, and enforce them to ſtand upon their guard, and capitulate for their ſafety, which they will interpret re<g ref="char:EOLhyphen"/>bellion, and hold forth to you as a true ground of deſtroying them, inciting you from thence to take up Armes, and engage in their unjuſt quarrell, even for the maintenance of their ex<g ref="char:EOLhyphen"/>orbitant wills, and ambitions ends, yea and defence of their lives and ill-gotten eſtates.</p>
+            <p>The heads of this deſigne are the corrupt men in the Houſe of Commons, even ſuch as have been formerly of the enemies party abroad, and done him ſervices here at home, by diſcove<g ref="char:EOLhyphen"/>ring our counſels, (as appeareth by the interception of ſome of their letters,) partaking with conſpirators in the City (as in <hi>Wallers</hi> plot) oppoſing the raiſing of this Army, (by which the worke hath been ſo ſpeedily ended) appearing croſſe in all debates of the Houſe for redreſſe of grievances, or relief of the oppreſſed and much abuſed people, conſtantly manifeſting, That they have propoſed other ends to themſelves, then the common good of the Nation.</p>
+            <p>Aſſiſtant to theſe is the Mayor of London, hitherto paſt o<g ref="char:EOLhyphen"/>ver, (when the well-affected party had moſt ſway in the City) as a man favouring the enemy, and never manifeſting any affection to the Parliament, in their undertaking to make us a
+<pb n="4" facs="tcp:114206:4"/>free people; alſo many of the Aldermen and great men of the Citie whoſe intereſt depends upon Prerogative, and is ſupported by the ſubjection of the plaine people.</p>
+            <p>The City <hi>Militia</hi> likewiſe in reference to this project was altered, becauſe the former men who had ſhewed themſelves faithfull to the Common-wealth and City, were not (it ſeems) judged fit inſtruments for this ſecret work; and yee the Com<g ref="char:EOLhyphen"/>moners of London likewiſe, they hope, will by ſome deceit<g ref="char:EOLhyphen"/>full trick or other follow, though to the deſtruction of your ſelves, your wives and families.</p>
+            <p>This makes them ſo confidently give out, that if the Army will not disband, that ye the plaine men of this City, your ſons and ſervants ſhall make a new Army to compell them; they verily thinke yee are not ſo well principled as to collect your thoughts (on ſuch a ſudden as they intend to ſurprize you) and conſider what a dangerous buſineſſe to the whole Kingdome ye go about, but that ye will doe it for no other reaſon, but becauſe they bid you: that ye will forget the good ſervices that the Army have done, the ſpeedie overthrow of a powerfull enemy, the ſo ſudden recovery of trading by the ending of a long and languiſhing warre, which if continued, had in probability utterly waſted your Traine-Bands, and hazzarded the ruine both of City and Kingdome.</p>
+            <p>Theſe benefits (they think) they can eaſily make you forget, with old tales of private mens preaching, Conventicles, re<g ref="char:EOLhyphen"/>baptizing; and now by clamours of rebellion, and contempt of authority, which both the preſent neceſſity, and the com<g ref="char:EOLhyphen"/>mon ſafety of the People requireth as a duty, and is purpoſely procured by themſelves, for the maintenance of their tyranny and corruptions.</p>
+            <p>But look back unto what is paſt, and ſurvey the actions of theſe men, their weekly donations of great ſummes amongſt themſelves, their pride and Lordlineſſe: Compare them with the Army; ſee if the Army have not made themſelves poor, to make the Common-wealth rich, whileſt theſe men have made themſelves rich and us poore.</p>
+            <p>Conſider whether theſe men, and their Agents, who ſhall be moſt forward to egg you on, and cry an Alarme, have not made advantages of your troubles, ſwolne great by the loſſe
+<pb n="5" facs="tcp:114206:4"/>of your Friends and Neighbours bloods, whileſt they that in<g ref="char:EOLhyphen"/>gaged moſt heartily, are diſ-reſpected, the poor Souldiers un<g ref="char:EOLhyphen"/>paid, the widdow and fatherleſſe by warre little regarded, ſo ſmall recompence made, as there is ſcarce a livelihood afforded to them that have loſt their limbs out of affection to their Countrey, whileſt thoſe that ſhall appeare moſt earneſt for a new warre, are ſuch as know the way very well how to thrive by it, have gained thouſands by the former, found the ſweet<g ref="char:EOLhyphen"/>neſſe of having the Common-wealths moneys at their diſpoſe: And as they have been liberall every week, in converting the Common-wealths Treaſury to their owne particular coffers, ſo hope they (with all poſſible ſpeed, &amp; by all indirect means) to be yet more bountifull, and for every hundred, give one another a thouſand.</p>
+            <p>Conſider, that warres are eaſily and ſuddenly, and out of a heat begun, but very hardly and ſlowly ended: Let late expe<g ref="char:EOLhyphen"/>rience make us wife, ſo to foreſee evills, as we may prevent them. The Scots will be ingaged againe, and forraigne For<g ref="char:EOLhyphen"/>ces called in, which is already attempted by private Agents, from the aforeſaid corrupt and ill-affected party in the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>This Citie may avoid all their malice, and cruſh all their wicked deſignes in the birth, before they come forth, if they will but abate their unjuſt and cauſleſſe eagerneſſe againſt men of different opinions, and equally conſider the juſt cauſe, de<g ref="char:EOLhyphen"/>ſires and intentions of the Armie, and the peaceableneſſe of thoſe people in the Citie and Countrey, who did lately peti<g ref="char:EOLhyphen"/>tion for libertie, and that their ends herein are evidently the good and peace of all men.</p>
+            <p>Take it to heart alſo, that we are in as much bondage as be<g ref="char:EOLhyphen"/>fore this Parliament; all ſorts of men are inſenſible of it, and full of complaints; the very oppreſſions cried out upon at the beginning of this Parliament, and removed, are not onely now again practiſed, but many new ones brought upon us; be<g ref="char:EOLhyphen"/>ſides that which alone amounts to all the reſt, the EXCISE, which (upon pretence of paying publike debts, and ſupplying other to-be-invented neceſſities) is like to be a laſting burden upon us.</p>
+            <p>Cuſtomes are ſtill as much inhanced as ever, without any
+<pb n="6" facs="tcp:114206:5"/>convoy and protection of Merchants, which is the end of pay<g ref="char:EOLhyphen"/>ing them, and the poore Seamen and Marriners wrack'd to the utmoſt point of extreamity: Infinite ſums have been diſpen<g ref="char:EOLhyphen"/>ded, and yet debts both unpaid, and the publike Treaſury emptied.</p>
+            <p>Conſider the grievances complained of in the late Petition which was burned, and collect from thence what uſage ye are like to finde, unleſſe ye reſolve to ſit downe under oppreſſion, and expect no redreſſe of grievances, which thoſe honeſt men petitioning for in a diſcreet, peaceable, and humble manner, were abuſed, reproached, ſome of them impriſoned, the reſt threatned, all termed ſeditious, and what not, even as men formerly were for moving againſt Ship-money, and the op<g ref="char:EOLhyphen"/>preſſions of thoſe times.</p>
+            <p>In this lamentable, condition the honeſt and plaine peo<g ref="char:EOLhyphen"/>ple being ſtill now, as they were then, in greateſt danger, and wicked men moſt ſecure, and not only moſt countenanced by Authority, but endeavoured to be brought into all places thereof; judge, ye citizens of London, and other neighbour-places, whether the Army have not juſt cauſe, to ſtand upon their guard, and whether it be not high time for them again to appear for the defence and protection of the diſtreſſed peo<g ref="char:EOLhyphen"/>ple of this land; judge likewiſe what kind of enemies to the common wealth, peace, freedom, and ſafety of this Nation they are that ſhal oppoſe them herein, how inexcuſable and evident<g ref="char:EOLhyphen"/>ly guilty of procuring their owne bondage, and maintaining abuſed Authority, to their owne miſery, if not deſtruction: yet this is the ſtrong temptation wherewith ye are likely very ſuddenly to be aſſaulted.</p>
+            <p>The bait they will uſe will be the ſuppreſſing of Hereticks and Schiſmaticks, which henceforth ye ſhall finde to be but nick-names for any that oppoſe Tyrants and Oppreſſors, by which they have ever endeavoured to make thoſe odious to the rude multitude, whoſe honeſtie and conſcience could not o<g ref="char:EOLhyphen"/>therwiſe be blemiſhed.</p>
+            <p>Looke therefore with a cleare eye upon the Army and thoſe that love and affect them, whether in Parliament or elſewhere, and ſee if they be not the trueſt prometers of juſt freedome, leaſt advancers of themſelves; and when ye are tried, may
+<pb n="7" facs="tcp:114206:5"/>ye prove like gold ſeven times fined in the fire; ſo ſhall your wiſdome, faithfulneſſe, thankfulneſſe and integrity appeare in this ſad day of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> greateſt extremity, when a major vote of Parliament muſt of ne<g ref="char:EOLhyphen"/>ceſſity be diſobeyed.</p>
+            <p>But this is an age of wonders: what greater wonder I pray, is there in this Nation, then a continuall Parliament, already drawing to the end of the ſeventh yeare; or that this Parliament ſhould begin in ſuppreſ<g ref="char:EOLhyphen"/>ſing the High-commiſſion, Star-chamber, Biſhops, Popiſh Lords and all oppreſſers, make a moſt bloody war againſt them, ſubdue them by a faithfull Army, and now act, tolerate, and juſtifie the ſame oppreſſions, under other notions, hate none ſo much as thoſe that abhor oppreſſion, and likewiſe vex, moleſt, and ſuffer to be hanged thoſe very Souldiers that preſerved their own lives, even in their greateſt extremities, and that for actions neceſſarily &amp; warrantably performed in proſecution of their own ſervices.</p>
+            <p>And becauſe all admonitions are moſt acceptable when the cauſes thereof are cleared, and proved to be good and juſt, by true examples, and forcible reaſons, I will give an inſtance for your better ſatisfaction, in the things whereof I forewarne you, and ſo fore-arme you, Yee cannot but remember, that as thoſe peaceable people who were at the begin<g ref="char:EOLhyphen"/>ning of this Parliament, called <hi>Round-heads,</hi> and afterwards <hi>Independents,</hi> and by ſuch other Titles as beſt pleaſe the Clergy to deviſe, and the rude multitude to expreſſe, did adventure their lives voluntarily day &amp; night, in guarding and defending the Parliament againſt all their enemies, who were like to ſwallow them up, before they had either guard or Army to take their part; and did not this worthy Army the like unto them, when no other Army could doe the buſineſſe?</p>
+            <p>Did not yee your ſelves, and many thouſands of others, beſtow a great part of your eſtates freely and voluntarily to help, further, and aſ<g ref="char:EOLhyphen"/>ſiſt the Parliament in all their publick affaires for the Common-weale, and ſafety of the people: and yet now, who are more deſpiſed, hated and perſecuted by means or co<g ref="char:cmbAbbrStroke">̄</g>nivance of the Parliament, then both yee, they, and the Army, who have been their trueſt &amp; beſt friends? And likewiſe, who have been more aſſeſſed and extorted in advancing more and more ſummes to fill their Coffers, then thoſe who gave them moſt freely and liberally at the firſt; yea, and too many of them more then they could well ſpare.</p>
+            <p>Therefore, deare friends, remember this ſeaſonable and lo<g ref="char:EOLhyphen"/>ving premonition, while it is yet time, that when yee have done all yee
+<pb n="8" facs="tcp:114206:6"/>can, and perhaps paſt the bounds of your abilities, yee may eaſily per<g ref="char:EOLhyphen"/>ceive both by former experience your ſelves, and infinite diſcontents, murmurings and out-cries of others, that if yee doe not perſiſt both in fulfilling their wils in what they wil command concerning your bodies, and in yeelding what they will demand of your Eſtates, yea, or refuſe them in any jot, or trifle they require, though never ſo unjuſt, ye will be ſubject to looſe all ye have done, and their favour too.</p>
+            <p>Theſe are wonders indeed, beſides hundreds of others which might be expreſſed; but theſe if well weighed, will put you upon examina<g ref="char:EOLhyphen"/>tion how it is poſſible ſuch things as theſe ſhould be.</p>
+            <p>The Army doubtleſſe doth highly eſteme the authority of Parlia<g ref="char:EOLhyphen"/>ment, being rightly conſtituted, and intending the well-fare and ſafe<g ref="char:EOLhyphen"/>ty of the people, and ſuch a Parliament both the Army and the well-affected of the Kingdome thought this would have proved; for which they have fought, as for their own and the peoples liberties.</p>
+            <p>But when through the policies, feaſtings, private letters, making uſe of intereſts and relations, with many other indirect practices, electi<g ref="char:EOLhyphen"/>ons ſhall be corrupted, and not freely made by the people, but in ef<g ref="char:EOLhyphen"/>fect the one part of the Parliament procure the election of the other, when by meanes hereof the ill affected party is growne moſt potent, and the peoples faithfull friends are over-powred, when their courſes ſhall tend evidently to make themſelves great, upon the peoples ruins, even to prevent the end for which a Parliament is called, is there any juſt cauſe to the contrary, but the ſame neceſſity and publike ſafety that juſtifieth the Parliament againſt the King, will alſo juſtifie the Army againſt them, by the ſame rule of right reaſon, and law of equity, as the ſouldiers of an Army may oppoſe the Generall, when he turneth the mouth of his Cannon upon them.</p>
+            <p>And all this the Army do not againſt, but for Parliaments, as the onely orderly meanes for the peoples ſafety, and freedome now in ſuch a high time of extreame danger, after the tryall of all other law<g ref="char:EOLhyphen"/>full and poſſible faire and ſubmiſſive meanes.</p>
+            <p>It is not to be imagined, that the Army meaneth in any wiſe to uſurpe the government, or give lawes to their brethren; nothing can be more odious to their ſpirits, or further from their thoughts: their <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yme is only to reſcue and ſuccour the people that are oppreſſed, and defend themſelves from the malicious plots and practices of wicked men, untill ſuch time as the right conſtitution of Parliaments be reco<g ref="char:EOLhyphen"/>vered,
+<pb n="9" facs="tcp:114206:6"/>the Accompt of the Kingdomes treaſury required, and the Au<g ref="char:EOLhyphen"/>thors of our miſeries according to juſtice puniſhed.</p>
+            <p>The obſtruction whereunto is a great number of tyrannicall and oppreſſive men in the Houſe, againſt whom juſt exceptions will be e<g ref="char:EOLhyphen"/>vidently made appeare to all the world; if upon offer of proofe, all theſe enormities ſhould be ſet into a way of tryall, this great and much threatning deſigne, may be prevented, without trouble, warre or bloodſhed, wherein it reſts in you at this time to do very much.</p>
+            <p>If ye forbeare to engage againſt the Army, whom God hath made his inſtruments to deliver you, and withall, ſecond their juſt deſires for purging out the corrupt Members of the Parliament, ye will not one<g ref="char:EOLhyphen"/>ly herein be an example of wiſdome, fidelity, and integrity to the whole Nation, but prevent a world of miſchiefe and inconvenience, which otherwiſe might come to paſſe by your negligence, or rather ſlaviſh obedience.</p>
+            <p>Ye cannot but perceive, that in the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alteration which is made of the Committee of the Militia and the removall of your knowne Commanders in the forces of <hi>London,</hi> that they intend to engage you againſt the Army. Is not this evident to all judicious men? For what neede is there of any ſuch change now at this time, and that onely of ſuch perſons as are affected to the Army?</p>
+            <p>Let not faire ſhewes or pretences of zeale, religion, or reformati<g ref="char:EOLhyphen"/>on of whatſoever kinde any longer delude you, but obſerve him for a traitor to his Countrey, that would now entangle you in any unjuſt warre againſt a moſt worthy Army, whom God hath ſo exceedingly bleſſed, yea and you alſo and all of us, by their faithfull meanes and effectuall endeavours.</p>
+            <p>Looke wiſely and narrowly to your Officers of truſt in all places, and ſee that they bring forth fruits ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able to your peace, preſervation, and freedome, or elſe ſhun them as ſerpents, whoſe property is to de<g ref="char:EOLhyphen"/>ſtroy you.</p>
+            <p>Be not deluded into a groundleſſe beliefe, that the Army do intend any kinde of prejudice to any juſt intereſt, or propriety in the Com<g ref="char:EOLhyphen"/>mon wealth, ſeeing they have manifeſted both by word and deed to the world, in deſpite of the mallice of all their treacherous enemies (though pretended friends) that the outmoſt extent of their deſires, is onely to ſee equity and juſtice floriſh in all Eſtates, ſo that no man may be puniſhed under the colour of law or otherwiſe, without a juſt cauſe.</p>
+            <pb n="10" facs="tcp:114206:7" rendition="simple:additions"/>
+            <p>Allow the Army to be as free <hi>Engliſhmen</hi> as any whoſoever, and your worthy and beloved brethren; have not many of you fought, ſhed your blood, &amp; advetured your lives in the very ſame juſt cauſe for which they moſt couragiouſly do yet (through Gods goodneſſe) ſtand. And would yee now unjuſtly reſigne both that good cauſe, and ſo renowned an Ar<g ref="char:EOLhyphen"/>my, into the treacherous and bloody hands of ſuch as maliciouſly hate both them and you, howſoever they may flatter you at this time for their own baſe ends, but neither for your own nor the Kingdomes good.</p>
+            <p>God forbid that ſo juſt a cauſe which hitherto hath been ſo valiantly proſecuted, ſhould eſcape ſo many and violent ſtormes, and cruell tem<g ref="char:EOLhyphen"/>peſts in the main Ocean, and yet periſh in the Harber, and that only for want of prudence and timely care.</p>
+            <p>But our hope is, that the ſame juſt and good God, who hath hitherto preſerved you, the Army, Citie, Parliament, and juſt cauſe, will al<g ref="char:EOLhyphen"/>ſo in his due and appointed time, to his own everlaſting praiſe, and the comfort of all that truſt in him, perfect his great worke in juſtice and righteouſneſſe, if in the mean time yee will be ſo truly wiſe, as to be thankfull for mercies received, and not forgetfull of the worthy inſtru<g ref="char:EOLhyphen"/>ments he hath employed for your preſervation, but doe them good to your utmoſt abilities in the day of their viſitation.</p>
+            <p>So ſhall God crown all your labours of love with peace, and both your ſelves, the whole Nation and poſterity with freedome. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="printer_to_the_reader">
+            <head>The Printer to the Reader.</head>
+            <p>I <hi>Deſire thee to amend with thy pen, one fault eſcaped in the printing, by negligence, and the Authors abſence, which is in the</hi> 3. <hi>page and</hi> 10. <hi>line, namely, ſecretaries, for ſectaries: and if there be any more faults (as none liveth without ſome) I alſo deſire that thou wilt ſhew thy patience by thy ſilence, and that thou may rather make a profitable uſe of the ſence, then any wiſe ſtrive about worde; even as thou wouldeſt except the like fa<g ref="char:EOLhyphen"/>vour of me or any other in thy abſence, if thou be one that ſheweſt thy ſelfe thus carefull and zealous for the publike: eſpecially now in ſuch extreeme need. Farewell.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
